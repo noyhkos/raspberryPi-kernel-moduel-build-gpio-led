@@ -1,6 +1,6 @@
 # raspberryPi-kernel-moduel-build-gpio-led
 
-** 라즈베리파이5 디바이스 드라이버 및 어플리케이션 개발 **
+**라즈베리파이5 디바이스 드라이버 및 어플리케이션 개발**
 - 리눅스 커널 빌드
 - gpio제어 및 led 제어 모듈화
 
