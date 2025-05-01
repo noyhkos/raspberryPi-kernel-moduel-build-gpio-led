@@ -1,6 +1,6 @@
 # raspberryPi-kernel-moduel-build-gpio-led
 
-project_root/
+```project_root/
 ├── mydev1_driver/ 
 │   ├── src/ 
 │   │   ├── mydev1_driver.c
@@ -19,6 +19,7 @@ project_root/
     ├── Makefile
     ├── run.sh
     └── clean.sh
+```
 
 ## HOW TO USE
 1. /mydev1_driver
