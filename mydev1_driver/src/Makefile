@@ -8,4 +8,4 @@ EXTRA_CFLAGS += -I../modules/
 all:
 	make -C $(KERNEL_DIR) M=$(PWD) modules
 clean:
-	make 0C $(KERNEL_DIR) M=$(PWD) clean
+	make -C $(KERNEL_DIR) M=$(PWD) clean
